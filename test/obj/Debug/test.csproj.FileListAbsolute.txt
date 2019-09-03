@@ -1,0 +1,14 @@
+C:\Users\Coi\Documents\Visual Studio 2017\Projects\test\test\bin\Debug\test.exe.config
+C:\Users\Coi\Documents\Visual Studio 2017\Projects\test\test\bin\Debug\test.exe
+C:\Users\Coi\Documents\Visual Studio 2017\Projects\test\test\bin\Debug\test.pdb
+C:\Users\Coi\Documents\Visual Studio 2017\Projects\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Coi\Documents\Visual Studio 2017\Projects\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Coi\Documents\Visual Studio 2017\Projects\test\test\obj\Debug\test.exe
+C:\Users\Coi\Documents\Visual Studio 2017\Projects\test\test\obj\Debug\test.pdb
+C:\Users\Coi\Documents\Visual Studio 2017\Projects\test\test\bin\Debug\test.exe.manifest
+C:\Users\Coi\Documents\Visual Studio 2017\Projects\test\test\bin\Debug\test.application
+C:\Users\Coi\Documents\Visual Studio 2017\Projects\test\test\obj\Debug\test.exe.manifest
+C:\Users\Coi\Documents\Visual Studio 2017\Projects\test\test\obj\Debug\test.application
+C:\Users\Coi\Documents\Visual Studio 2017\Projects\清理临时文件\test\bin\Debug\test.exe.config
+C:\Users\Coi\Documents\Visual Studio 2017\Projects\清理临时文件\test\obj\Debug\test.exe
+C:\Users\Coi\Documents\Visual Studio 2017\Projects\清理临时文件\test\obj\Debug\test.pdb

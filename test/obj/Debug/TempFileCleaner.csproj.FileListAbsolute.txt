@@ -1,0 +1,16 @@
+C:\Users\Coi\Documents\Visual Studio 2017\Projects\清理临时文件\test\bin\Debug\TempFileCleaner.exe.config
+C:\Users\Coi\Documents\Visual Studio 2017\Projects\清理临时文件\test\bin\Debug\TempFileCleaner.exe.manifest
+C:\Users\Coi\Documents\Visual Studio 2017\Projects\清理临时文件\test\bin\Debug\TempFileCleaner.application
+C:\Users\Coi\Documents\Visual Studio 2017\Projects\清理临时文件\test\bin\Debug\TempFileCleaner.exe
+C:\Users\Coi\Documents\Visual Studio 2017\Projects\清理临时文件\test\bin\Debug\TempFileCleaner.pdb
+C:\Users\Coi\Documents\Visual Studio 2017\Projects\清理临时文件\test\obj\Debug\TempFileCleaner.csprojResolveAssemblyReference.cache
+C:\Users\Coi\Documents\Visual Studio 2017\Projects\清理临时文件\test\obj\Debug\TempFileCleaner.exe.manifest
+C:\Users\Coi\Documents\Visual Studio 2017\Projects\清理临时文件\test\obj\Debug\TempFileCleaner.application
+C:\Users\Coi\Documents\Visual Studio 2017\Projects\清理临时文件\test\obj\Debug\TempFileCleaner.exe
+C:\Users\Coi\Documents\Visual Studio 2017\Projects\清理临时文件\test\obj\Debug\TempFileCleaner.pdb
+C:\Work\SVN\HYL\TempFileCleaner\test\bin\Debug\TempFileCleaner.exe.config
+C:\Work\SVN\HYL\TempFileCleaner\test\obj\Debug\TempFileCleaner.exe
+C:\Work\SVN\HYL\TempFileCleaner\test\obj\Debug\TempFileCleaner.pdb
+C:\Work\Demo\TempFileCleaner\test\bin\Debug\TempFileCleaner.exe.config
+C:\Work\Demo\TempFileCleaner\test\obj\Debug\TempFileCleaner.exe
+C:\Work\Demo\TempFileCleaner\test\obj\Debug\TempFileCleaner.pdb
